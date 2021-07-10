@@ -1,7 +1,6 @@
 # Election_Analysis
 
 ## Project Overview
-
 Audit of a local congressional elections completed for the Colorado Board of Elections.  Audit consited of teh following tasks.
 1. Total votes cast.
 2. Complete list of candidates who received votes.
