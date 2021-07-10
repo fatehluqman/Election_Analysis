@@ -21,7 +21,7 @@ The analysis of the election show that:
 	o Jefferson County turnout was 38,855 votes cast which was 10.5% of votes cast.
 	o Denver County turnout was 306,055 votes cast which was 82.8% of votes cast.
 	o Arapahoe County turnout was 24,801 votes cast which was 6.7% of votes cast.
-• The county with the largest turnout was Denver with 306,055 votes cast which was 82.8% of votes cast.[election_analysis.txt]
+• The county with the largest turnout was Denver with 306,055 votes cast which was 82.8% of votes cast.
 • The candidate results were:
 	o Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes. 
 	o Diana DeGette received 73.8% of the vote and 272,892 number of votes.
